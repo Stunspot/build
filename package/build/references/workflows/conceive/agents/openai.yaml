@@ -1,0 +1,6 @@
+interface:
+  display_name: "CONCEIVE"
+  short_description: "🧠 Design through five independent, interacting viewpoints."
+  default_prompt: "Use $conceive. Create a CONCEIVE named [NAME] to design [OBJECTIVE] in five communicating chats."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,137 @@
+{
+  "format": "build-workflow-snapshots/v1",
+  "version": "0.1.0",
+  "role": "bundled resources, not separate tool injections",
+  "snapshots": [
+    {
+      "name": "conceive",
+      "version": "0.1.0",
+      "entrypoint": "conceive/SKILL.md",
+      "files": [
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "ac9a4a157f250c570a9f70319540169ed340832c89673a7db06a3b451a89355c"
+        },
+        {
+          "path": "assets/design-handoff.md",
+          "sha256": "16cfd2b6372b5bbb1e28bd464d8ab18d4618de8245968d0ff1c24d65f2256f90"
+        },
+        {
+          "path": "assets/participant-brief.md",
+          "sha256": "8048a52fd8f367512c21e0baaf364b81d297d7d69c771096139173a021276d6c"
+        },
+        {
+          "path": "assets/session-record.md",
+          "sha256": "784efc294530db476efedfbc34e95a40eaf8739987c6e5eb0dc4e10a43fed9b7"
+        },
+        {
+          "path": "evals/cases.md",
+          "sha256": "860653856cd7eb1776c14451910aec01908807c2a4c1fb7cb63998dc6ef03c64"
+        },
+        {
+          "path": "examples/community-workshop.md",
+          "sha256": "087a1760889bfc16d4ef4978637c2c565a992cd288bc88d13cc44eb9b1c45332"
+        },
+        {
+          "path": "references/deliberation.md",
+          "sha256": "57c391730b9125596cf88cf8be25867b5eb78109b082f16d6b795954c555db7d"
+        },
+        {
+          "path": "references/handoff.md",
+          "sha256": "7e6860054cc3ae4aff518d98a57eb7b904f34e2ac8819826044b7cc18d5e9f93"
+        },
+        {
+          "path": "references/native-coordination.md",
+          "sha256": "ec21f4b29dfe4cc329dc47c5127ab178b302b49de05637eb6337f3d769f2a3a5"
+        },
+        {
+          "path": "roles/alex-jordan.md",
+          "sha256": "3d3b575898eef2b43778e4f32cbd68dcf3b22ea760381dcfbe019edfd1b60a8b"
+        },
+        {
+          "path": "roles/calvin-merrick.md",
+          "sha256": "08e9a0ce2378e347fce7ea8e0c7a9290a08966a8a7ec8d8fe7bc1fe5fec71970"
+        },
+        {
+          "path": "roles/morgan-hayes.md",
+          "sha256": "2a3c583184522393e0d9437a0743f58b0419a2a8c49c8f4e76b0809a93bceaa3"
+        },
+        {
+          "path": "roles/nathan-vantage.md",
+          "sha256": "68f4794339f9a39f3008498306b774759169fa21348b05ffd6a04ad9cdd6c6b8"
+        },
+        {
+          "path": "roles/taylor-reed.md",
+          "sha256": "b0f78957c4cba884c489c097b185f1d3acb5879f50185cf54706ca54f41523f8"
+        },
+        {
+          "path": "scripts/validate.py",
+          "sha256": "480431d2413a2ff25d12550eb3ee93f2d6410a178a99f25f29e16419c3352dfa"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "34cb61b6e31c208f48d87d3db99818056a0ed47514813d211c581dc96b837eec"
+        },
+        {
+          "path": "sources/PROVENANCE.md",
+          "sha256": "c5be24d58f1f9504efb90ef30ee0899be524d375ff63b6a0656456690eee639e"
+        },
+        {
+          "path": "sources/source-manifest.json",
+          "sha256": "566a6d4d5c6006dee211ad4063136a6276e7637a6e1c8688079eabf46f76d597"
+        },
+        {
+          "path": "sources/thunktank-t3-original.txt",
+          "sha256": "4619b2a131be75f7c1df8437a551efe3aed58e65b77347b57f00deb49f089816"
+        }
+      ]
+    },
+    {
+      "name": "braid",
+      "version": "0.1.0",
+      "entrypoint": "braid/SKILL.md",
+      "files": [
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "1b0d0a2144f001f69bc97a290a0dc99cb5b6ed9eef3eaba9c5b269d9d86d75e0"
+        },
+        {
+          "path": "assets/supervisor-heartbeat.md",
+          "sha256": "f9461f8845047b318c744cb404ee49c85dbe4b0bbed3a815a3b3e4706a18b2f1"
+        },
+        {
+          "path": "assets/task-brief.md",
+          "sha256": "621d50feebccd535c595ce39b5b0f644a73baf55493bdcebb2b8badfd41c3774"
+        },
+        {
+          "path": "assets/work-record.md",
+          "sha256": "760c5a645dd1b17071bdf37f7c38412d48a85a9d19307bf88448f168202e3b8d"
+        },
+        {
+          "path": "references/checker.md",
+          "sha256": "0088af499f8516410ad2ac4e35c2682cee7874e24e603dfb1dbab7f278c12173"
+        },
+        {
+          "path": "references/maker.md",
+          "sha256": "8a38e42be2de27b12315cb864b20c23d7074b9990402dbbfc5c657d47fd163f0"
+        },
+        {
+          "path": "references/native-coordination.md",
+          "sha256": "2f1f5cec721e4b516988eea9e5d57d876501eb79423be696ddc82785f5bc6b5d"
+        },
+        {
+          "path": "references/shared-agreement.md",
+          "sha256": "3c435f9c7bdd5d9b25ff3103079b7deffc256ec132004ef764c91e7704570bdc"
+        },
+        {
+          "path": "references/supervisor.md",
+          "sha256": "670224405026f183022ed61ef6ff50db14faf140c63b19625bae81c68c91791a"
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "3c0675c4e5a02b098842b15f6c8003cc3c8b579070746a03854026c7df313dc9"
+        }
+      ]
+    }
+  ]
+}

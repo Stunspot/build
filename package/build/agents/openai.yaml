@@ -1,0 +1,5 @@
+interface:
+  display_name: "BUILD"
+  short_description: "🏗️ Idea to finished work: CONCEIVE designs; BRAID makes and checks."
+  default_prompt: "Use $build to create five communicating CONCEIVE chats and then three communicating BRAID chats to design and make the requested outcome, with one recurring SUPERVISOR heartbeat until completion."
+

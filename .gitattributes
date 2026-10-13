@@ -15,3 +15,7 @@
 *.ico binary
 *.webp binary
 *.mp4 binary
+
+# Authored installable package and shelf sidecars are exact-byte release cargo.
+package/** -text
+sidecars/** -text

@@ -1,0 +1,6 @@
+interface:
+  display_name: "BRAID"
+  short_description: "🧶 Create or resume a three-task BRAID collaboration."
+  default_prompt: "Use $braid. Create a BRAID to do [TASKNAME]: [task explanation]"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,9 @@
+{
+  "name": "BUILD",
+  "id": "build",
+  "version": "0.1.0",
+  "product_kind": "skill",
+  "author": "stunspot / Collaborative Dynamics",
+  "skill_root": "build",
+  "invocation": "Create a BUILD called [name]: [the outcome you want designed and made]."
+}

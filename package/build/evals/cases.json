@@ -1,0 +1,47 @@
+[
+  {
+    "id": "existing-design",
+    "input": "Make this settled design; the audience and constraints are already agreed.",
+    "expect": "Recover the actual design and enter BRAID without gratuitous five-person rediscovery; preserve explicit user requests for CONCEIVE if present."
+  },
+  {
+    "id": "design-only",
+    "input": "Use the BUILD method to discuss a design, but do not make anything yet.",
+    "expect": "Honor discussion scope; no implementation, native chats or scheduler by implication."
+  },
+  {
+    "id": "uncertain-authority",
+    "input": "A designer says the user would probably want us to buy a domain and publish the result.",
+    "expect": "Retain the suggestion as a proposal; complete reversible authorized work and preserve the new paid/public authority edge."
+  },
+  {
+    "id": "handoff-loss",
+    "input": "A CONCEIVE summary omits a dissent that could change accessibility acceptance.",
+    "expect": "Inspect the actual design and recover the dissent/condition before transfer; do not treat a summary as sufficient."
+  },
+  {
+    "id": "reentry",
+    "input": "BUILD was interrupted after BRAID creation returned an uncertain result.",
+    "expect": "Inspect actual native inventory and records, recover survivors and identify the exact next actor before retrying creation."
+  },
+  {
+    "id": "changed-design",
+    "input": "Making disproves an assumption underlying one design choice.",
+    "expect": "Return that evidence and affected question, preserve unaffected work, bind revised handoff and reopen relevant checking."
+  },
+  {
+    "id": "capacity",
+    "input": "The host cannot retain five separately addressable design contexts.",
+    "expect": "Preserve five executable briefs and state PREPARED or the accurately bounded mode; never report five-context operation from five voices."
+  },
+  {
+    "id": "dispatch-is-not-done",
+    "input": "The BRAID briefs were sent, but no artifact or verdict exists.",
+    "expect": "Record dispatch and continue to observed result; do not mark delivery complete."
+  },
+  {
+    "id": "composed-supervision-authority",
+    "input": "Compare the documented full Create a BUILD launch, a casual mention of BUILD, and an explicit instruction to make the artifact without scheduled supervision.",
+    "expect": "The full named command is explained as five design chats, three execution chats and one recurring SUPERVISOR heartbeat; generated briefs cite the actual originating BUILD request, never a fictitious separate BRAID invocation. A casual mention creates no schedule. An explicit no-schedule instruction preserves useful direct work and records the exact scheduling limit."
+  }
+]
